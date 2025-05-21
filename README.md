@@ -10,6 +10,8 @@ This tool is highly influenced by [Grimoire](https://codeberg.org/basil/grimoire
 
 Run program from the command line. By default, the program will only check the `audio`, `data`, and `img` folders in the `www/` directory. The filenames of all encrypted files must be unchanged.
 
+Python 3.2+ is required.
+
 Arguments:
 
 `inputDirectory`: Specify directory of game.
