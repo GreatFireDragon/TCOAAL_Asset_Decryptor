@@ -1,14 +1,20 @@
 # The Coffin of Andy and Leyley - Asset Decryptor (.exe)
 
-This is a user-friendly, standalone executable for Windows that decrypts the game files for *The Coffin of Andy and Leyley*. It is designed for game versions 3.0.0 and higher (tested on v3.0.2).
+This is a user-friendly program that decrypts the game files for *The Coffin of Andy and Leyley*. It is designed for game versions 3.0.0 and higher (tested on v3.0.11).
 
 The tool will automatically find and process all encrypted `.png`, `.json`, and `.ogg` files and save the decrypted versions to a new folder, making them accessible for viewing or modding.
+
+![ezgif-46497fb2352bf5](https://github.com/user-attachments/assets/f75c3d0c-ed8b-4f4a-a0c1-2b1f2ea77bfb)
+
 
 **You must provide your own legitimate copy of the game.**
 
 ### How to Use
 
 This tool is designed to be as simple as possible. No command line or Python installation is required.
+
+#### Windows Defender might say there's a virus which is **BULLSHIT**!
+I've packed this .exe myself using pyinstaller. Windows just likes to BULLSHIT people's projects!
 
 1.  **Download** the `.exe` file.
 - From [Releases](https://github.com/GreatFireDragon/TCOAAL_Asset_Decryptor/releases)
@@ -24,6 +30,6 @@ This tool is designed to be as simple as possible. No command line or Python ins
 
 This tool was made possible by the work of several people in the community.
 
-*   **Original Python Script:** Created by **AlternativeOne**. You can find the original project here: [github.com/AlternativeOne/tcoaal_decryptor](https://github.com/AlternativeOne/tcoaal_decryptor)
+*   **Original Python Script:** Created by **AlternativeOne**. You can find the original project here [AlternativeOne/tcoaal_decryptor](https://github.com/AlternativeOne/tcoaal_decryptor)
 *   **Influential Work:** This tool is highly influenced by the work of **Basil & Phoni** on their TCOAAL tools, especially [Grimoire](https://codeberg.org/basil/grimoire).
 *   **Executable Packaging:** Packaged into a standalone `.exe` by me (**GreatFireDragon**).
